@@ -1,10 +1,10 @@
 
-.nav--item .node--colour {
+ul .nav--item .node--colour {
    color: hsl(356, 100%, 66%);
 }
 
 .csuf--paths {
-   max-width: 70vw;
+   max-width: 80vw;
    margin: auto;
    text-align: center;
 }
@@ -13,4 +13,20 @@
    max-width: 80vw;
    margin: auto;
    text-align: center;
+}
+
+.csuf--colour {
+   color: #0d6cf1;
+}
+
+.algo {
+   color: rgb(48, 48, 241);
+}
+
+.colour--logo {
+   color: orangered;
+}
+
+.dev {
+   color: #0d6cf1;
 }
