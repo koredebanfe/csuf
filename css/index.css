@@ -1,0 +1,16 @@
+
+.nav--item .node--colour {
+   color: hsl(356, 100%, 66%);
+}
+
+.csuf--paths {
+   max-width: 70vw;
+   margin: auto;
+   text-align: center;
+}
+
+.csuf--join {
+   max-width: 80vw;
+   margin: auto;
+   text-align: center;
+}
